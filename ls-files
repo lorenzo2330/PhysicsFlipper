@@ -1,0 +1,53 @@
+*   [33m36d9a4d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31mgitlab/develop[m[33m, [m[1;31mgithub/develop[m[33m)[m Merge branch 'feature/sound' into develop
+[31m|[m[32m\[m  
+[31m|[m * [33mb60e31a[m[33m ([m[1;31mgitlab/feature/sound[m[33m, [m[1;31mgithub/feature/sound[m[33m, [m[1;32mfeature/sound[m[33m)[m add sound
+[31m|[m[31m/[m  
+*   [33m768d773[m Merge branch 'feature/board' into develop
+[33m|[m[34m\[m  
+[33m|[m * [33mc6b9924[m[33m ([m[1;31mgitlab/feature/board[m[33m, [m[1;31mgithub/feature/board[m[33m, [m[1;32mfeature/board[m[33m)[m add LoseZone
+[33m|[m *   [33m94ae11d[m Merge branch 'develop' into feature/board
+[33m|[m [35m|[m[33m\[m  
+[33m|[m [35m|[m[33m/[m  
+[33m|[m[33m/[m[35m|[m   
+* [35m|[m   [33m4f019a2[m Merge branch 'feature/AI' into develop
+[1;31m|[m[1;32m\[m [35m\[m  
+[1;31m|[m * [35m|[m [33m3dabbd6[m[33m ([m[1;31mgitlab/feature/AI[m[33m, [m[1;31mgithub/feature/AI[m[33m, [m[1;32mfeature/AI[m[33m)[m add AI
+[1;31m|[m[1;31m/[m [35m/[m  
+* [35m|[m   [33ma3b0b1c[m Merge branch 'feature/UI' into develop
+[1;33m|[m[1;34m\[m [35m\[m  
+[1;33m|[m * [35m|[m [33m8096c1a[m[33m ([m[1;31mgitlab/feature/UI[m[33m, [m[1;31mgithub/feature/UI[m[33m, [m[1;32mfeature/UI[m[33m)[m add UI
+[1;33m|[m[1;33m/[m [35m/[m  
+* [35m|[m [33m8143415[m Merge branch 'feature/board' into develop
+[1;35m|[m[35m\[m[35m|[m 
+[1;35m|[m * [33mf42eb1f[m fix Board
+[1;35m|[m *   [33m26147b8[m Merge branch 'develop' into feature/board
+[1;35m|[m [31m|[m[1;35m\[m  
+[1;35m|[m [31m|[m[1;35m/[m  
+[1;35m|[m[1;35m/[m[31m|[m   
+* [31m|[m   [33m7996d9b[m Merge branch 'feature/paddle' into develop
+[33m|[m[34m\[m [31m\[m  
+[33m|[m * [31m|[m [33m69e3d79[m[33m ([m[1;31mgitlab/feature/paddle[m[33m, [m[1;31mgithub/feature/paddle[m[33m, [m[1;32mfeature/paddle[m[33m)[m add Paddles
+[33m|[m[33m/[m [31m/[m  
+* [31m|[m   [33m961bc35[m Merge branch 'feature/bouncers' into develop
+[35m|[m[36m\[m [31m\[m  
+[35m|[m * [31m|[m [33m926ad72[m[33m ([m[1;31mgitlab/feature/bouncers[m[33m, [m[1;31mgithub/feature/bouncers[m[33m, [m[1;32mfeature/bouncers[m[33m)[m add Bounce to Bouncers
+[35m|[m * [31m|[m [33m3a4758a[m add Bouncers
+[35m|[m[35m/[m [31m/[m  
+* [31m|[m   [33me0efbd8[m Merge branch 'feature/ball' into develop
+[1;31m|[m[1;32m\[m [31m\[m  
+[1;31m|[m * [31m|[m [33m649df4f[m[33m ([m[1;31mgitlab/feature/ball[m[33m, [m[1;31mgithub/feature/ball[m[33m, [m[1;32mfeature/ball[m[33m)[m add Ball
+[1;31m|[m[1;31m/[m [31m/[m  
+* [31m|[m   [33m41c843e[m Merge branch 'feature/camera' into develop
+[1;33m|[m[1;34m\[m [31m\[m  
+[1;33m|[m * [31m|[m [33m3dbf988[m[33m ([m[1;31mgitlab/feature/camera[m[33m, [m[1;31mgithub/feature/camera[m[33m, [m[1;32mfeature/camera[m[33m)[m add camera
+[1;33m|[m[1;33m/[m [31m/[m  
+* [31m|[m [33m5b90c9d[m Merge branch 'feature/board' into develop
+[1;35m|[m[31m\[m[31m|[m 
+[1;35m|[m * [33m415ec8f[m add board in level
+[1;35m|[m * [33maa00710[m add board
+[1;35m|[m[1;35m/[m  
+* [33m90b5d96[m setup Content folder
+* [33mda1da29[m activate OFPA
+* [33mf89c8f2[m[33m ([m[1;31mgitlab/main[m[33m, [m[1;31mgithub/main[m[33m, [m[1;31mgithub/HEAD[m[33m, [m[1;32mmain[m[33m)[m add Config/DefaultEditor... and ...Engine files
+* [33m386b879[m Add UEGitPlugin as submodule
+* [33m1b28612[m git setup
